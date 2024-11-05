@@ -1,6 +1,6 @@
 name: trakt_dart
 description: A Dart client-side API package for the Trakt.tv API, a database on what tv shows and movies everyone is watching.
-version: 1.0.1
+version: 1.0.2
 repository: https://github.com/nikkithomas2012/trakt_dart
 
 environment:
@@ -9,11 +9,11 @@ environment:
 
 dependencies:
   build_runner: ^2.4.6
-  dotenv: ^4.1.0
+  dotenv: ^4.2.0
   flutter:
     sdk: flutter
-  flutter_inappwebview: ^5.7.2+3
-  http: ^1.1.0
+  flutter_inappwebview: ^6.1.5
+  http: ^1.2.2
   json_annotation: ^4.8.1
   json_serializable: ^6.7.1
   tuple: ^2.0.2
